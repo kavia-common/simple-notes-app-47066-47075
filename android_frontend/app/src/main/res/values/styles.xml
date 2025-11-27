@@ -1,5 +1,6 @@
 <resources>
-    <style name="Theme.Notes" parent="Theme.Material3.DayNight.NoActionBar">
+    <!-- Use a standard Material3 DayNight base theme; NoActionBar variant may be unavailable -->
+    <style name="Theme.Notes" parent="Theme.Material3.DayNight">
         <item name="android:statusBarColor">@android:color/transparent</item>
         <item name="android:navigationBarColor">@android:color/transparent</item>
     </style>
