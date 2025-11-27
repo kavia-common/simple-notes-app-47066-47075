@@ -1,0 +1,9 @@
+<resources>
+    <!-- Ocean Professional -->
+    <color name="primary">#2563EB</color>
+    <color name="secondary">#F59E0B</color>
+    <color name="error">#EF4444</color>
+    <color name="background">#f9fafb</color>
+    <color name="surface">#ffffff</color>
+    <color name="text">#111827</color>
+</resources>
